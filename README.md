@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=header&text=Pratik%20Bihari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=🚀+Data+Science+Enthusiast;🤖+Machine+Learning+Explorer;✈️+Aeronautical+Engineer;💡+AI+Innovation+Seeker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=🚀+Data+Scientist;🤖+Machine+Learning+Explorer;✈️+Aeronautical+Engineer;💡+AI+Innovation+Seeker" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Who Am I?
 
-🎓 **Background**: B.Tech in Aeronautical Engineering from India  
+🎓 **Background**: B.Tech in Aeronautical Engineering  
 🚀 **Current Role**: Data Scientist  
 🌍 **Location**: India 🇮🇳  
 💻 **Languages**: Python, SQL, JavaScript  
